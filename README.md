@@ -5,7 +5,7 @@ Devops CI/CD Docker project
 This project demonstrates a **basic CI/CD pipeline** using **GitHub, Jenkins, Docker**, and a simple web application.
 
 ---
- Ì≥å Project Overview
+ Project Overview
 
 - Source code hosted on **GitHub**
 - Automated build triggered by **Jenkins**
@@ -14,7 +14,7 @@ This project demonstrates a **basic CI/CD pipeline** using **GitHub, Jenkins, Do
 
 ---
 
- Ìª†Ô∏è Tech Stack Used
+ Tech Stack Used
 
 - Git & GitHub
 - Jenkins (CI/CD)
@@ -23,7 +23,7 @@ This project demonstrates a **basic CI/CD pipeline** using **GitHub, Jenkins, Do
 - HTML (Simple Web App)
 
 ---
- ‚öôÔ∏è Project Flow (CI/CD)
+ Project Flow (CI/CD)
 
 1. Developer pushes code to GitHub
 2. Jenkins pulls latest code from repository
@@ -33,7 +33,7 @@ This project demonstrates a **basic CI/CD pipeline** using **GitHub, Jenkins, Do
 
 ---
 
- Ì≥Ç Project Structure
+ Project Structure
 
 ```text
 Devops-cicd-project/
